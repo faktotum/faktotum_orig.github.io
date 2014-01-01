@@ -1,2 +1,0 @@
-faktotum.github.io
-==================
