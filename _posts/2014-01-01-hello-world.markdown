@@ -12,6 +12,6 @@ categories: blog
 
 main()
 {
-    printf("hello, world\m");
+    printf("hello, world\n");
 }
 {% endhighlight %}
