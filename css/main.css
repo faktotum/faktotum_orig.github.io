@@ -5,9 +5,8 @@
 /*****************************************************************************/
 
 /* fonts */
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,300italic,400italic);
-@import url(http://fonts.googleapis.com/css?family=Special+Elite);
-@import url(http://fonts.googleapis.com/css?family=IM+Fell+DW+Pica);
+
+@import url(http://fonts.googleapis.com/css?family=Poly:400,400italic);
 
 /* Global Reset */
 * {
@@ -21,11 +20,11 @@ body {
   background-color: #FFF;
 /*  font: 13.34px Helvetica, Arial, sans-serif; */
 /*  font-family: 'PT Serif', serif; */
-  font: 15px/23px 'Roboto', sans-serif; margin: 0; padding: 0; font-weight: 300; 
+  font: 15px/23px 'Poly', serif; margin: 0; padding: 0; font-weight: 300; 
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font: 19px/27px 'Roboto', sans-serif; margin: 0; padding: 0; font-weight: 400; 
+  font: 19px/27px 'Poly', serif; margin: 0; padding: 0; font-weight: 400; 
 /*  font-family: 'Special Elite', cursive;  */
 /*  font-family: 'IM Fell DW Pica', serif; */
   }

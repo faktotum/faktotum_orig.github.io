@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spiegeln zweier Festplatten mit rsync"
+title:  "How to mirror two harddisks under OS X with rsync"
 date:   2014-01-05 22:44:27
 categories: mac shell backup
 lang: de
