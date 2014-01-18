@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Export ReadKit link To Yojimbo using Keyboard Maestro"
+title:  "Export ReadKit link to Yojimbo using Keyboard Maestro"
 date:   2014-01-17 23:29:44
 categories: blog keyboardmaestro readkit yojimbo
 ---
