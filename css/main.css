@@ -21,11 +21,12 @@ body {
   background-color: #FFF;
 /*  font: 13.34px Helvetica, Arial, sans-serif; */
 /*  font-family: 'PT Serif', serif; */
-  font: 15px/23px 'Adamina', serif; margin: 0; padding: 0; font-weight: 300; 
+  font: 14px 'Adamina', serif; margin: 0; padding: 0; font-weight: 300; 
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font: 19px/27px 'Cabin', sanf-serif; margin: 0; padding: 0; font-weight: 400; 
+  font: 19px 'Cabin', sans-serif; margin: 0; padding: 0; font-weight: 400;
+  text-transform: uppercase; 
 /*  font-family: 'Special Elite', cursive;  */
 /*  font-family: 'IM Fell DW Pica', serif; */
   }
@@ -102,6 +103,7 @@ a:visited { color: #a0a; }
 
 .meta {
   color: #aaa;
+  font: 12px 'Cabin', sans-serif; margin: 0; padding: 0; font-weight: 400;
 }
 
 .footer {
