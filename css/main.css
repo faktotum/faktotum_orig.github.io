@@ -21,12 +21,12 @@ body {
   background-color: #FFF;
 /*  font: 13.34px Helvetica, Arial, sans-serif; */
 /*  font-family: 'PT Serif', serif; */
-  font: 14px 'Adamina', serif; margin: 0; padding: 0; font-weight: 300; 
+  font: 14px 'Palatino', serif; margin: 0; padding: 0; font-weight: 300; 
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font: 19px 'Cabin', sans-serif; margin: 0; padding: 0; font-weight: 400;
-  text-transform: uppercase; 
+  font: 19px 'Gil Sans', sans-serif; margin: 0; padding: 0; font-weight: 400;
+/*  text-transform: uppercase;  */
 /*  font-family: 'Special Elite', cursive;  */
 /*  font-family: 'IM Fell DW Pica', serif; */
   }
