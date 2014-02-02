@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Skip to end of song in iTunes using Keyboard Maestro"
+title:  "Skip to the end of a Song in iTunes using Keyboard Maestro"
 date:  2014-02-02 00:55:59 
 categories: blog keyboardmaestro itunes
 ---
