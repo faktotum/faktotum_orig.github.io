@@ -34,9 +34,14 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; text-decoration: none;}
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #0b61ea; text-decoration: none;}
+a:hover   { color: #0b61ea;
+    border-bottom-style: dotted;
+ border-bottom-width: 1px;
+  text-decoration: none;
+  border-bottom-color: #0b61ea;
+            }
+/* a:visited { color: #a0a; }  */
 
 /*****************************************************************************/
 /*
@@ -85,11 +90,11 @@ a:visited { color: #a0a; }
 }
 
 .title a {
-  color: #a00;
+  color: #0b61ea;
 }
 
 .title a:hover {
-  color: #000;
+  color: #0b61ea;
 }
 
 .header a.extra {
