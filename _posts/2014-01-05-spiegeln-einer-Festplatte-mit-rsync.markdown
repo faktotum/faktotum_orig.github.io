@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "How to mirror two harddisks under OS X with rsync"
+title:  "How to mirror two harddisks under OS X using rsync"
 date:   2014-01-05 22:44:27
-categories: mac shell backup
+tags: osx backup osx
 lang: de
 ---
 
-Einfaches Spiegeln zweier Festplatten.
+Simple command for mirroring two harddisks.
 
 {% highlight bash %}
 sudo /Users/foo/bin/rsync -vvaHX \

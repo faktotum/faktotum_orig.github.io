@@ -2,7 +2,7 @@
 layout: post
 title:  "hello, world"
 date:   2014-01-01 23:29:55
-categories: blog
+tags:
 ---
 
 #
