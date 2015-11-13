@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "test"
-date:    23:29:55
+date:   2015-11-13 23:29:55
 tags:
 ---
 
